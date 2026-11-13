@@ -112,5 +112,9 @@ The project also highlights the value of data-driven decision-making in identify
 **Project Category:** Data Analytics | Business Intelligence | Customer Experience Analysis
 
 **Data Source:** CFPB Consumer Complaint Database
-Author: Tessy Odiley
-AnalystLab Africa Internship
+
+**Author:** Tessy Odiley
+
+## Internship Program
+
+AnalystLab Africa Data Analytics Internship
