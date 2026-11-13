@@ -11,7 +11,7 @@ A comprehensive analysis of consumer complaints sent to the CFPB regarding the B
 - [Dashboard Screenshots](/DASHBOARD_SCREENSHOTS_Consumer_Complaints.pdf)
 - [Consumer_Complaints_Executive_Report](/Consumer_Complaints_Executive_Report.pdf)
 - [Consumer_Complaints_Methodology](/Consumer_Complaints_Methodology.pdf)
-- [MySQL script](/Week_3_MySQL_Script.sql)
+- [Python_Notebook](/Consumer_Complaints_Data_Quality_Assessment.ipynb)
 - [Consumer_Complaint_KPI_Validation_Evidence](/Consumer_Complaint_KPI_Validation_Evidence.pdf)
 
 This project explores consumer complaints about Bank of America submitted to the Consumer Financial Protection Bureau (CFPB) between May 2017 and August 2023.
