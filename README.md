@@ -1,9 +1,9 @@
 # Consumer-Complaint-Trends-and-Response-Intelligence-Analysis-Python-Power-BI
 A comprehensive analysis of consumer complaints sent to the CFPB regarding the Bank of America.
-# CFPB Consumer Complaints Analysis Relating to Bank of America (2017–2023)
+
 
 ## Project Overview
-![Dashboard Preview 1](Executive_Overview_Screenshot.png)  
+![Dashboard Preview](Executive_Overview_Screenshot.png)  
 
 ## Project Files
 
