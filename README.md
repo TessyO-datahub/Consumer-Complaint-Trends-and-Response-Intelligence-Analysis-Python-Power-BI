@@ -8,7 +8,7 @@ A comprehensive analysis of consumer complaints sent to the CFPB regarding the B
 ## Project Files
 
 - [Power BI Dashboard](/Consumer_Complaints_Executive_Dashboard.pbix)
-- [Dashboard Screenshots](/DASHBOARD_SCREENSHOTS_Consumer_Complaints.pdf)
+- [Dashboard Screenshots](/Consumer_Complaints_Executive_Dashboard.pdf)
 - [Consumer_Complaints_Executive_Report](/Consumer_Complaints_Executive_Report.pdf)
 - [Consumer_Complaints_Methodology](/Consumer_Complaints_Methodology.pdf)
 - [Python_Notebook](/Consumer_Complaints_Data_Quality_Assessment.ipynb)
